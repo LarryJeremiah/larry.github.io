@@ -1,3 +1,9 @@
-# larryjeremiah.github.io
+User-agent: *
+Allow: /index.html
+Allow: /blog.html
 
- [UX Site](https://larryjeremiah.github.io/DigitalMarketing/)
+Disallow: /categories.html
+Disallow: /signup.html
+Disallow: /login.html
+
+Sitemap: http://larryjeremiah.github.io/DigitalMarketing/sitemap.xml
